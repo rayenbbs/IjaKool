@@ -1,0 +1,22 @@
+/* Color Palette: E4C59E  AF8260  803D3B  322C2B*/
+
+.form {
+  text-align: right;
+}
+
+.form button {
+  font: inherit;
+  cursor: pointer;
+  background-color: #803d3b;
+  border: 1px solid #803d3b;
+  color: white;
+  padding: 0.25rem 2rem;
+  border-radius: 20px;
+  font-weight: bold;
+}
+
+.form button:hover,
+.form button:active {
+  background-color: #6b3331;
+  border-color: #6b3331;
+}
